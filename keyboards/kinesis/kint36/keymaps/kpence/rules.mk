@@ -1,4 +1,4 @@
-BOOTMAGIC_ENABLE = no       # Enable Bootmagic Lite
+BOOTMAGIC_ENABLE = yes       # Enable Bootmagic Lite
 COMMAND_ENABLE = yes
 MOUSEKEY_ENABLE = yes
 NKRO_ENABLE = yes
